@@ -13,8 +13,8 @@ Publishing with GitHub Pages:
 6. Wait for GitHub Pages to publish the site.
 
 The URLs will generally be:
-https://YOUR-GITHUB-USERNAME.github.io/focusshield-legal/privacy-policy.html
-https://YOUR-GITHUB-USERNAME.github.io/focusshield-legal/terms-of-service.html
+https:joseph-1015.github.io/focusshield-legal/privacy-policy.html
+https:joseph-1015.github.io/focusshield-legal/terms-of-service.html
 
 Replace YOUR-GITHUB-USERNAME with your actual GitHub username. Do not enter these example URLs in the app or Play Console until GitHub Pages is live and the pages open publicly.
 
